@@ -17,3 +17,4 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 
 Resutados
+<img src="twitter.png">
